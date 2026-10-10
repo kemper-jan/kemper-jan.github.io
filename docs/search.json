@@ -1,0 +1,86 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Research",
+    "section": "",
+    "text": "Earning While Learning: How to Run Batched Bandit Experiments\nJan Kemper, Davud Rostam-Afshar\nStata Journal, 2026\nArticle\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nResearchers collect data in most experiments not all at once but sequentially over a period of time. This allows to observe outcomes early and adapt the treatment assignment to reduce the costs of inferior treatments. This article discusses multi-armed-bandit-type adaptive experimental designs and algorithms for balancing exploration of treatment effects and exploitation of better treatments. By design, bandits break usual asymptotics and make inference difficult. We show how a batched bandit design allows for valid confidence intervals and compare coverage of the Batched Bandit estimator in Monte Carlo simulations. We introduce bbandits in Stata, a tool for easily running Monte Carlo simulations to assist the design and implementation of experiments before data are collected, interactively running own bandit experiments, and analysing adaptively collected data. bbandits implements three popular treatment assignment algorithms: ε-first, ε-greedy, and Thompson sampling. The bbandits command facilitates estimation, inference, and visualization."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Research",
+    "section": "",
+    "text": "Earning While Learning: How to Run Batched Bandit Experiments\nJan Kemper, Davud Rostam-Afshar\nStata Journal, 2026\nArticle\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nResearchers collect data in most experiments not all at once but sequentially over a period of time. This allows to observe outcomes early and adapt the treatment assignment to reduce the costs of inferior treatments. This article discusses multi-armed-bandit-type adaptive experimental designs and algorithms for balancing exploration of treatment effects and exploitation of better treatments. By design, bandits break usual asymptotics and make inference difficult. We show how a batched bandit design allows for valid confidence intervals and compare coverage of the Batched Bandit estimator in Monte Carlo simulations. We introduce bbandits in Stata, a tool for easily running Monte Carlo simulations to assist the design and implementation of experiments before data are collected, interactively running own bandit experiments, and analysing adaptively collected data. bbandits implements three popular treatment assignment algorithms: ε-first, ε-greedy, and Thompson sampling. The bbandits command facilitates estimation, inference, and visualization."
+  },
+  {
+    "objectID": "publications.html#working-papers",
+    "href": "publications.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\nTaxing Secondary Residents\nJan Kemper, Tommy Krieger\nSubmitted\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nUsing municipal data from Germany, we examine how people adjust their residential situation due to a second home tax and how these adjustments affect the municipal budget and housing market. Results from difference-in-differences analyses suggest that such a tax largely decreases the number of secondary residents. We also find that many people turn a secondary into a primary residence to avoid the tax. A consequence of this reaction is that most municipalities generate low direct revenues. However, there are notable indirect effects because formula-based intergovernmental transfers increase. Touristic municipalities also have higher income tax revenues. Real estate prices and rents remain unchanged.\n\n\n\n\nECB Council Members’ Objectives and Public Debt at Home: Evidence from an AI-Based Textual Analysis\nFriedrich Heinemann, Jan Kemper\nSubmitted\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nBy analyzing more than 4,600 speeches given between the establishment of the ECB and the summer of 2024, we examine the attention that ECB Governing Council members pay to different policy objectives. In addition to the primary objective of price stability, our analysis considers the following possible secondary objectives: financial stability, government bond market stability, public debt, climate protection, and distribution. On the methodological side, we take advantage of the recently improved access to large language models (LLM) and use GPT models to identify the coverage of these possible objectives and the associated support. We use two-way fixed effects regressions to search for a link between a country’s public debt level and the objective function of its representatives. The results suggest that objectives have become more diverse in recent years. The positioning of central bankers correlates with the debt-to-GDP ratio, where an increase in public debt is associated with increasingly dovish statements by national central bankers.\n\n\n\n\nInference for Batched Adaptive Experiments\nJan Kemper, Davud Rostam-Afshar\nSubmitted\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nThis note suggests a BOLS (batched ordinary least squares) test statistic for inference of treatment effects in adaptive experiments. The statistic provides a precision-equalizing aggregation of per-period treatment-control differences under heteroskedasticity. The combined test statistic is a normalized average of per-period heteroskedastic z-statistics and can be used to construct asymptotically valid confidence intervals. We provide simulation results comparing rejection rates in the typical case with few treatment periods and few (or many) observations per batches."
+  },
+  {
+    "objectID": "publications.html#work-in-progress",
+    "href": "publications.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\nTaxing Travellers\nSebastian Blesse, Jan Kemper, Valentin Kissmann\nDraft coming soon\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nTourism is a key income source for cities while also exerting negative externalities on local economies. We estimate the causal effects of local tourism taxes on tourism demand and hotel prices using municipal-level data from Germany. Exploiting staggered tax adoptions across more than 700 municipalities between 2005 and 2023, we implement event-study designs based on monthly administrative data on overnight stays and accommodation supply. We complement this analysis with newly web-scraped hotel price data from Booking.com to study tax pass-through and analyze housing market implications of the tax. Tourism taxes reduce overnight stays by about 3.5 percent in the first year after adoption, which corresponds to a tax elasticity of −0.7. There are strong heterogeneities. In popular places (big cities, fiscally successful cities, touristic cities) the elasticities are negligible. Hotel prices increase by roughly 3.3 percent, implying a substantial average pass-through rate of 0.66 to consumers. Pass-through is complete in the high-price hotel segment but close to zero in the low-price segment. We do not find evidence for effects on housing markets.\n\n\n\n\nAccountability and Long-Term Investments: Evidence from Mayors’ Tenure Length Reforms\nJan Kemper\nEarly stage\n\nE-Filing for Personal Income Taxes: Early Evidence from Senegal’s Mon Espace Personnel (MEP) Reform\nMitali Das, Supriyo De, Jan Kemper, Cheryl Li, Serge Mani"
+  },
+  {
+    "objectID": "publications.html#pre-doctoral-publications",
+    "href": "publications.html#pre-doctoral-publications",
+    "title": "Research",
+    "section": "Pre-Doctoral Publications",
+    "text": "Pre-Doctoral Publications\nThe ECB Under the Threat of Fiscal Dominance: The Individual Central Banker Dimension\nFriedrich Heinemann, Jan Kemper\nThe Economists’ Voice, 18(1), 5–30, 2021"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Jan Kemper",
+    "section": "",
+    "text": "I am a fifth-year PhD student in Economics at the University of Mannheim and a researcher in the Department of Corporate Taxation and Public Finance at the ZEW – Leibniz Centre for European Economic Research in Mannheim.\nMy research is in public economics, with a focus on public finance and political economy. On the revenue side of public budgets, I analyze understudied tax instruments, such as second-home and tourism taxes, and how they affect tax avoidance, public finances and housing markets. I also study public debt and how it interacts with monetary policy in the euro area. Beyond tax design, I work on tax administration and the role of digitalization in revenue collection. On the expenditure side, I look at how political incentives shape public investment decisions.\nBeyond my topical focus, I work on empirical methods: I use large language models and web-scraped data to measure economic variables, and I develop research software and inference methods for machine learning techniques."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Jan Kemper",
+    "section": "",
+    "text": "I am a fifth-year PhD student in Economics at the University of Mannheim and a researcher in the Department of Corporate Taxation and Public Finance at the ZEW – Leibniz Centre for European Economic Research in Mannheim.\nMy research is in public economics, with a focus on public finance and political economy. On the revenue side of public budgets, I analyze understudied tax instruments, such as second-home and tourism taxes, and how they affect tax avoidance, public finances and housing markets. I also study public debt and how it interacts with monetary policy in the euro area. Beyond tax design, I work on tax administration and the role of digitalization in revenue collection. On the expenditure side, I look at how political incentives shape public investment decisions.\nBeyond my topical focus, I work on empirical methods: I use large language models and web-scraped data to measure economic variables, and I develop research software and inference methods for machine learning techniques."
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Jan Kemper",
+    "section": "News",
+    "text": "News\n\n2026: Earning While Learning: How to Run Batched Bandit Experiments (with Davud Rostam-Afshar) published in the Stata Journal\nSummer 2026: Fiscal Affairs Department, International Monetary Fund, Washington DC\n2026: Presented at the 53rd Annual Meeting of the European Public Choice Society, Madrid\n2025: Presented at the 81st Annual Congress of the IIPF, Nairobi"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Download CV (PDF)\n\n\nYour browser does not support embedded PDFs. &lt;a href=\"assets/cv.pdf\"&gt;Download the CV here.&lt;/a&gt;"
+  },
+  {
+    "objectID": "policy.html",
+    "href": "policy.html",
+    "title": "Policy",
+    "section": "",
+    "text": "ZEW ECB-Monitor: coming soon"
+  },
+  {
+    "objectID": "policy.html#dashboard",
+    "href": "policy.html#dashboard",
+    "title": "Policy",
+    "section": "",
+    "text": "ZEW ECB-Monitor: coming soon"
+  },
+  {
+    "objectID": "policy.html#policy-briefs",
+    "href": "policy.html#policy-briefs",
+    "title": "Policy",
+    "section": "Policy Briefs",
+    "text": "Policy Briefs\nECB Monitor Quarterly Report Q3 2026\nFriedrich Heinemann, Jan Kemper\nZEW ECB Monitor, Mannheim, 2026\nPDF · ZEW page\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nThe escalation of the Iran conflict in early 2026 raised uncertainty about the inflation outlook, as higher energy prices and supply-chain disruptions revived fears of second-round effects in the euro area. Governing Council communication turned sharply hawkish over spring and early summer, then moderated in July amid greater growth pessimism. More recently, energy prices have stayed high while euro area growth has surprised on the upside. This report assesses the outlook for ECB monetary policy through the lens of Council members’ communication. The ECB-ZEW Momentum Indicator uses an AI-based classification of individual speeches to track whether the Council’s tone is shifting towards tighter or looser policy. This edition covers data up to 27 August 2026.\n\n\n\n\nECB Monitor Quarterly Report Q2 2026\nFriedrich Heinemann, Jan Kemper\nZEW ECB Monitor, Mannheim, 2026\nPDF · ZEW page\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nThe escalation of the Iran conflict in early 2026 raised uncertainty about the inflation outlook, as higher energy prices and supply-chain disruptions revived fears of second-round effects in the euro area. Ahead of its monetary policy meeting on 11 June 2026, the ECB Governing Council faced a difficult choice: holding the deposit rate at 2%, cutting it to support a slowing economy, or raising it to keep inflation in check. To gauge how Council members were communicating ahead of this decision, the ZEW ECB Monitor tracks the tone of individual speeches using an AI-based text classification. This report summarises the key findings from the latest data update.\n\n\n\n\nFalke oder Taube in der Nachfolge von Christine Lagarde an der EZB-Spitze? Einsichten aus einer KI-Analyse öffentlicher Reden\nHawk or Dove as Christine Lagarde’s Successor at the Head of the ECB? Insights from an AI Analysis of Public Speeches (in German)\nFriedrich Heinemann, Jan Kemper\nZEW policy brief Nr. 26-05, Mannheim, March 2026\nPDF\n\n\n\nHawk–dove scores of the leading candidates’ speeches, 2018–2024.\n\n\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nChristine Lagarde’s term as ECB President ends in October 2027, and four candidates are most often named as her successor: Pablo Hernández de Cos, Klaas Knot, Joachim Nagel and Isabel Schnabel. We use a large language model to score their public speeches on a scale from −1 (extreme dove) to +1 (extreme hawk). In 2022–2024, when all four sat on the ECB Governing Council at the same time, all of them speak as hawks, with Schnabel and Nagel the most focused on fighting inflation. Over a longer horizon, Schnabel, Knot and de Cos all turned sharply hawkish in 2021–22, but only Schnabel kept this position. Overall, a de Cos presidency would point towards a more expansionary course, Nagel or Knot would largely continue Lagarde’s line, and Schnabel would signal a more determined fight against inflation.\n\n\n\n\nInflation of Objectives Instead of Focus on Inflation? Evidence on the ECB Objective Function from a Textual Analysis\nFriedrich Heinemann, Jan Kemper\nZEW Expert Brief Nr. 22-07, Mannheim, October 2022\nPDF\n\n\n\nAttention to different policy objectives in ECB speeches, 2000–2022.\n\n\n\n\n\n\n\n\nNoteAbstract\n\n\n\n\n\nWe analyse more than 3,800 speeches by ECB Governing Council members from 1999 to 2022 to measure how much attention they pay to price stability and to other possible objectives: financial stability, sovereign bond market stability, public debt, climate protection and distribution. Using a new central-bank dictionary built with machine learning and expert knowledge, we track these objectives over time, across countries and across individual Council members. Financial stability gained weight after the financial crisis, and public debt and bond markets after the euro crisis. Climate protection was almost absent until 2015, yet by 2021 more than half of all speeches mentioned it. Governors from Southern Europe speak less about price stability than their colleagues. The growing range of objectives may signal a loss of focus, and suggests the ECB should rethink its communication at a time of high inflation."
+  }
+]

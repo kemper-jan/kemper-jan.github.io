@@ -1,0 +1,87 @@
+---
+title: "Research"
+---
+
+## Publications
+
+**Earning While Learning: How to Run Batched Bandit Experiments**\
+Jan Kemper, Davud Rostam-Afshar\
+*Stata Journal*, 2026\
+[Article](https://journals.sagepub.com/doi/10.1177/1536867X261477558)
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+Researchers collect data in most experiments not all at once but sequentially over a period of time. This allows to observe outcomes early and adapt the treatment assignment to reduce the costs of inferior treatments. This article discusses multi-armed-bandit-type adaptive experimental designs and algorithms for balancing exploration of treatment effects and exploitation of better treatments. By design, bandits break usual asymptotics and make inference difficult. We show how a batched bandit design allows for valid confidence intervals and compare coverage of the Batched Bandit estimator in Monte Carlo simulations. We introduce `bbandits` in Stata, a tool for easily running Monte Carlo simulations to assist the design and implementation of experiments before data are collected, interactively running own bandit experiments, and analysing adaptively collected data. `bbandits` implements three popular treatment assignment algorithms: ε-first, ε-greedy, and Thompson sampling. The `bbandits` command facilitates estimation, inference, and visualization.
+:::
+
+---
+
+## Working Papers
+
+**Taxing Secondary Residents**\
+Jan Kemper, Tommy Krieger\
+*Submitted*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+Using municipal data from Germany, we examine how people adjust their residential situation due to a second home tax and how these adjustments affect the municipal budget and housing market. Results from difference-in-differences analyses suggest that such a tax largely decreases the number of secondary residents. We also find that many people turn a secondary into a primary residence to avoid the tax. A consequence of this reaction is that most municipalities generate low direct revenues. However, there are notable indirect effects because formula-based intergovernmental transfers increase. Touristic municipalities also have higher income tax revenues. Real estate prices and rents remain unchanged.
+:::
+
+---
+
+**ECB Council Members' Objectives and Public Debt at Home: Evidence from an AI-Based Textual Analysis**\
+Friedrich Heinemann, Jan Kemper\
+*Submitted*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+By analyzing more than 4,600 speeches given between the establishment of the ECB and the summer of 2024, we examine the attention that ECB Governing Council members pay to different policy objectives. In addition to the primary objective of price stability, our analysis considers the following possible secondary objectives: financial stability, government bond market stability, public debt, climate protection, and distribution. On the methodological side, we take advantage of the recently improved access to large language models (LLM) and use GPT models to identify the coverage of these possible objectives and the associated support. We use two-way fixed effects regressions to search for a link between a country's public debt level and the objective function of its representatives. The results suggest that objectives have become more diverse in recent years. The positioning of central bankers correlates with the debt-to-GDP ratio, where an increase in public debt is associated with increasingly dovish statements by national central bankers.
+:::
+
+---
+
+**Inference for Batched Adaptive Experiments**\
+Jan Kemper, Davud Rostam-Afshar\
+*Submitted*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+This note suggests a BOLS (batched ordinary least squares) test statistic for inference of treatment effects in adaptive experiments. The statistic provides a precision-equalizing aggregation of per-period treatment-control differences under heteroskedasticity. The combined test statistic is a normalized average of per-period heteroskedastic z-statistics and can be used to construct asymptotically valid confidence intervals. We provide simulation results comparing rejection rates in the typical case with few treatment periods and few (or many) observations per batches.
+:::
+
+---
+
+## Work in Progress
+
+**Taxing Travellers**\
+Sebastian Blesse, Jan Kemper, Valentin Kissmann\
+*Draft coming soon*
+
+::: {.callout-note collapse="true"}
+## Abstract
+
+Tourism is a key income source for cities while also exerting negative externalities on local economies. We estimate the causal effects of local tourism taxes on tourism demand and hotel prices using municipal-level data from Germany. Exploiting staggered tax adoptions across more than 700 municipalities between 2005 and 2023, we implement event-study designs based on monthly administrative data on overnight stays and accommodation supply. We complement this analysis with newly web-scraped hotel price data from Booking.com to study tax pass-through and analyze housing market implications of the tax. Tourism taxes reduce overnight stays by about 3.5 percent in the first year after adoption, which corresponds to a tax elasticity of −0.7. There are strong heterogeneities. In popular places (big cities, fiscally successful cities, touristic cities) the elasticities are negligible. Hotel prices increase by roughly 3.3 percent, implying a substantial average pass-through rate of 0.66 to consumers. Pass-through is complete in the high-price hotel segment but close to zero in the low-price segment. We do not find evidence for effects on housing markets.
+:::
+
+---
+
+**Accountability and Long-Term Investments: Evidence from Mayors' Tenure Length Reforms**\
+Jan Kemper\
+*Early stage*
+
+---
+
+**E-Filing for Personal Income Taxes: Early Evidence from Senegal's Mon Espace Personnel (MEP) Reform**\
+Mitali Das, Supriyo De, Jan Kemper, Cheryl Li, Serge Mani
+
+---
+
+## Pre-Doctoral Publications
+
+**The ECB Under the Threat of Fiscal Dominance: The Individual Central Banker Dimension**\
+Friedrich Heinemann, Jan Kemper\
+*The Economists' Voice*, 18(1), 5–30, 2021

@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Jan Kemper"
+  description: "Jan Kemper, PhD student in economics (public finance, political economy) at the University of Mannheim and ZEW"
+  site-url: "https://kemper-jan.github.io"
+
+  navbar:
+    title: "Jan Kemper"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: publications.qmd
+      - text: "Policy"
+        href: policy.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: "mailto:jkemper@uni-mannheim.de"
+        aria-label: Email
+      - icon: linkedin
+        href: https://www.linkedin.com/in/jan-kemper-0b89362aa
+        aria-label: LinkedIn
+
+  page-footer:
+    center: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

@@ -1,0 +1,93 @@
+/* ── Typography ── */
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  color: #1a1a1a;
+}
+
+/* ── Narrow centered layout ── */
+.page-columns .column-body,
+.quarto-about-trestles .about-contents {
+  max-width: 860px;
+}
+
+/* ── Navbar ── */
+.navbar {
+  border-bottom: 1px solid #e0e0e0;
+  background-color: #fff !important;
+}
+
+.navbar-brand {
+  font-weight: 600;
+  font-family: Georgia, serif;
+  color: #1a1a1a !important;
+}
+
+.navbar .nav-link {
+  color: #444 !important;
+  font-size: 0.95rem;
+}
+
+.navbar .nav-link:hover {
+  color: #000 !important;
+}
+
+/* ── Links ── */
+a {
+  color: #2c6fad;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ── About page (trestles template) ── */
+.quarto-about-trestles .about-entity {
+  border-right: 1px solid #e0e0e0;
+  padding-right: 2rem;
+}
+
+.about-link {
+  font-size: 0.9rem;
+  color: #444 !important;
+}
+
+/* ── Headings ── */
+h2 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+/* ── Footer ── */
+.nav-footer {
+  border-top: 1px solid #e0e0e0;
+  font-size: 0.85rem;
+  color: #888;
+}
+
+/* ── Callout (abstract toggle) ── */
+.callout {
+  border-left-color: #2c6fad;
+  font-size: 0.9rem;
+}
+
+/* ── Horizontal rule ── */
+hr {
+  border-top: 1px solid #e8e8e8;
+  margin: 2rem 0;
+}
+
+/* ── Policy page figures ── */
+.policy-figure img,
+img.policy-figure {
+  max-width: 100%;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+  padding: 0.5rem;
+  background: #fff;
+}

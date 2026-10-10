@@ -1,0 +1,54 @@
+---
+title: "Jan Kemper"
+subtitle: "PhD Student in Economics · University of Mannheim & ZEW"
+image: assets/profile.jpg
+about:
+  template: trestles
+  image-shape: round
+  image-width: 160px
+  links:
+    - icon: envelope
+      text: Email
+      href: "mailto:jkemper@uni-mannheim.de"
+    - icon: building
+      text: ZEW Profile
+      href: https://www.zew.de/en/team/jkp
+    - icon: mortarboard
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=DpCtKAIAAAAJ&hl=en
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/jan-kemper-0b89362aa
+    - icon: file-earmark-pdf
+      text: CV (PDF)
+      href: assets/cv.pdf
+---
+
+## About
+
+I am a fifth-year PhD student in Economics at the University of Mannheim and a
+researcher in the Department of Corporate Taxation and Public Finance at the
+[ZEW – Leibniz Centre for European Economic Research](https://www.zew.de/en) in
+Mannheim.
+
+My research is in **public economics**, with a focus on **public finance** and
+**political economy**. On the revenue side of public budgets, I analyze understudied
+tax instruments, such as second-home and tourism taxes, and how they affect tax
+avoidance, public finances and housing markets. I also study public debt and how
+it interacts with monetary policy in the euro area. Beyond tax design, I work on
+tax administration and the role of digitalization in revenue collection. On the
+expenditure side, I look at how political incentives shape public investment
+decisions.
+
+Beyond my topical focus, I work on empirical methods: I use large language models
+and web-scraped data to measure economic variables, and I develop research
+software and inference methods for machine learning techniques.
+
+---
+
+## News
+
+- **2026**: [*Earning While Learning: How to Run Batched Bandit Experiments*](https://journals.sagepub.com/doi/10.1177/1536867X261477558) (with Davud Rostam-Afshar) published in the *Stata Journal*
+- **Summer 2026**: Fiscal Affairs Department, International Monetary Fund, Washington DC
+- **2026**: Presented at the 53rd Annual Meeting of the European Public Choice Society, Madrid
+- **2025**: Presented at the 81st Annual Congress of the IIPF, Nairobi
