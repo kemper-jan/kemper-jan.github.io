@@ -26,9 +26,6 @@ website:
         href: https://www.linkedin.com/in/jan-kemper-0b89362aa
         aria-label: LinkedIn
 
-  page-footer:
-    center: "Built with [Quarto](https://quarto.org)"
-
 format:
   html:
     theme:
