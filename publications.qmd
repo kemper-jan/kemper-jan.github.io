@@ -33,7 +33,7 @@ Using municipal data from Germany, we examine how people adjust their residentia
 
 **ECB Council Members' Objectives and Public Debt at Home: Evidence from an AI-Based Textual Analysis**\
 Friedrich Heinemann, Jan Kemper\
-*Submitted*
+*R&R, Journal of International Money and Finance*
 
 ::: {.callout-note collapse="true"}
 ## Abstract

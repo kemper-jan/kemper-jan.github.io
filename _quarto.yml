@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - google629c2f9acea1b706.html
 
 website:
   title: "Jan Kemper"
